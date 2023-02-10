@@ -1,4 +1,4 @@
-# Local and Global Bilaterally Improvement of Federated Learning in Image Classification
+# Local and Global Bilaterally Improvement in Federated Learning
 
 
 ## Dependencies
